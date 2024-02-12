@@ -1,5 +1,3 @@
-# bot.py
-
 import telebot
 from telebot import types
 from sqlalchemy.orm import sessionmaker
